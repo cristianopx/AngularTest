@@ -192,7 +192,7 @@ export class ComponenteConDirectivaComponent {}
 2. ¿Qué son las tuberías en Angular y cómo se utilizan?
 3. ¿Cómo se implementa el enrutamiento de páginas en una aplicación Angular?
 
-### Avanzado (40%)
+### Avanzado
 
 #### Ejercicios prácticos:
 1. Implementar una estrategia de manejo de errores en una aplicación Angular utilizando el servicio HttpClient.
